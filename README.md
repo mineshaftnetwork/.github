@@ -1,2 +1,2 @@
 # .github
-Handles the Mineshaft Network's GitHub profile.
+The software of the **Mineshaft Network**.
